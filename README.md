@@ -3,7 +3,7 @@
 
 👋 Hi, I'm @YourUsername
 🎓 B.Tech CSE student at IIIT Sonepat (2024–2028)
-📊 Aspiring Data Analyst | BI Analyst | Frontend Developer | AI/ML Enthusiast
+📊 AI/ML Enthusiast | Data Analyst | BI Analyst | Frontend Developer 
 🌱 Currently learning machine learning and the MERN stack
 💼 Data Analytics intern at SWYNEX Technologies
 📫 How to reach me: <www.linkedin.com/in/dushyant-80801a283>
